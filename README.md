@@ -1,5 +1,3 @@
-# Ai-Quiz
-Willkommen beim ultimativen KI-Quiz! 
 <!DOCTYPE html>
 <html lang="de">
 <head>
